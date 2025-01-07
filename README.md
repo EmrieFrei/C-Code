@@ -1,4 +1,4 @@
-## C-Code
+# C-Code
 This repository is for all of my programming labs and assignments during my second year of Computer System Engineering at Carleton University!
 The class where all of these projects were made was SYSC2006 Foundations of Imperative Programming.
 
